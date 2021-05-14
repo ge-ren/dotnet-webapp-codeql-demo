@@ -1,4 +1,4 @@
-# dotnet-webapp-codeql-demo
+# A simple dotnet project to demonstrate usage of GitHub Actions and CodeQL alerts 
 Created a simple dotnet webapp using command "dotnet new webapp" and pushed it to GitHub
 
 From the repository's Action tab added a default workflow dotnet.yml. The workflow includes steps:
